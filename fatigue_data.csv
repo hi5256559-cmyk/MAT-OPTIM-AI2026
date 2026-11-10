@@ -1,0 +1,12 @@
+
+Material,Reference_Endurance_Limit_MPa,Reference_Cycles,Data_Status
+Aluminum 6061,95,1000000,Illustrative
+Aluminum 7075,160,1000000,Illustrative
+Carbon Steel,180,1000000,Illustrative
+Stainless Steel 304,190,1000000,Illustrative
+Copper,70,1000000,Illustrative
+Titanium Ti-6Al-4V,300,1000000,Illustrative
+ABS Plastic,12,1000000,Illustrative
+Polypropylene,10,1000000,Illustrative
+Glass Fiber Composite,90,1000000,Illustrative
+Carbon Fiber Composite,180,1000000,Illustrative
