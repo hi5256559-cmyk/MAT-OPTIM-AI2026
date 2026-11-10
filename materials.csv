@@ -1,0 +1,11 @@
+Material,Tensile_Strength_MPa,Density_g_cm3,Cost_Level,Corrosion_Resistance,Heat_Resistance
+Aluminum 6061,310,2.70,2,Medium,Medium
+Aluminum 7075,572,2.81,3,Medium,Medium
+Carbon Steel,400,7.85,1,Low,High
+Stainless Steel 304,515,8.00,3,High,High
+Copper,210,8.96,3,High,Medium
+Titanium Ti-6Al-4V,900,4.43,5,High,High
+ABS Plastic,40,1.04,1,Medium,Low
+Polypropylene,35,0.90,1,High,Low
+Glass Fiber Composite,300,1.90,3,High,Medium
+Carbon Fiber Composite,600,1.60,5,High,High
